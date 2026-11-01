@@ -1,5 +1,5 @@
-<!-- ===================== HEADER ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Mondru%20Sri%20Lakshmi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Software%20Developer&descAlignY=58&descSize=18" width="100%" alt="header"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sri+Lakshmi;B.Tech+Student+%7C+Aspiring+Software+Engineer;I+build+clean%2C+scalable+web+applications;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" /> </a> <p> <img src="https://komarev.com/ghpvc/?username=srilakshmi-2814&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views"/> <img src="https://img.shields.io/github/followers/srilakshmi-2814?label=Followers&style=for-the-badge&logo=github&color=00C9A7" alt="Followers"/> </p> <p> <a href="https://www.linkedin.com/in/srilakshmi-mondru-478581328"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:srilakshmim496@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/srilakshmi-2814"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a> <a href="https://github.com/srilakshmi-2814/srilakshmi-2814/blob/main/Sri_Lakshmi_Resume.pdf"><img src="https://img.shields.io/badge/Resume-00C9A7?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a> </p> </div>
-👩‍💻 About Me
+<!-- ===================== HEADER ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6C63FF,100:00C9A7&amp;height=220&amp;section=header&amp;text=Mondru%20Sri%20Lakshmi&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Software%20Developer&amp;descAlignY=58&amp;descSize=18" width="100%" alt="header"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Hi+%F0%9F%91%8B+I'm+Sri+Lakshmi;B.Tech+Student+%7C+Aspiring+Software+Engineer;I+build+clean%2C+scalable+web+applications;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG"/> </a> <p> <img src="https://komarev.com/ghpvc/?username=srilakshmi-2814&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views"/> <img src="https://img.shields.io/github/followers/srilakshmi-2814?label=Followers&style=for-the-badge&logo=github&color=00C9A7" alt="Followers"/> </p> <p> <a href="https://www.linkedin.com/in/srilakshmi-mondru-478581328"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:srilakshmim496@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/srilakshmi-2814"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a> <a href="https://github.com/srilakshmi-2814/srilakshmi-2814/blob/main/Sri_Lakshmi_Resume.pdf"><img src="https://img.shields.io/badge/Resume-00C9A7?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a> </p> </div>
+## 👩‍💻 About Me
 
 I'm a 3rd-year B.Tech student at Amrita Sai Institute of Science and Technology with a strong interest in full stack development and Java-based software development. I enjoy turning ideas into working products, writing clean code, and solving problems one commit at a time.
 
@@ -11,7 +11,7 @@ I'm a 3rd-year B.Tech student at Amrita Sai Institute of Science and Technology 
 🤝 Open to: Internships, collaborations, and open-source contributions
 📫 Reach me at: srilakshmim496@gmail.com
 ⚡ Fun fact: I debug with curiosity, not frustration (most days 😄)
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Languages
 
@@ -28,8 +28,9 @@ Backend & Databases
 Tools & Platforms
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux" alt="Tools"/> </p>
-📊 GitHub Stats
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=srilakshmi-2814&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmi-2814&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=srilakshmi-2814&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </div>
+## 📊 GitHub Stats
+<div align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=srilakshmi-2814&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srilakshmi-2814&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" alt="Top Languages"/>  <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=srilakshmi-2814&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </div>
 🚀 Featured Projects
 
 Replace the placeholders below with your real projects and repository links.
@@ -47,7 +48,9 @@ Project	Description	Tech Stack
  Land a software development internship
  Contribute to open-source
 🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=srilakshmi-2814&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/> </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srilakshmi-2814&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" alt="GitHub Trophies"/>
+</div>
 💬 Let's Connect
 
 I'm always happy to talk about tech, projects, and opportunities. Feel free to reach out!
